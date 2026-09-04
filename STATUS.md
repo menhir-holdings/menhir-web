@@ -12,7 +12,7 @@ None on this repo yet.
 
 | Issue | What |
 | --- | --- |
-| [MT-187](https://linear.app/menhir-holdings/issue/MT-187) | Baptism: Higgsfield-shaped studio shell (clickable, nonfunctional) |
+| [MT-187](https://linear.app/menhir-holdings/issue/MT-187) | Baptism shell — [PR #1](https://github.com/menhir-holdings/menhir-web/pull/1) · [preview](https://menhir-web-git-ledoit-mt-187-baptism-hig-986b43-menhir-holdings.vercel.app/) |
 
 ## Backlog
 
